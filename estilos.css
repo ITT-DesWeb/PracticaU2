@@ -1,0 +1,33 @@
+body{
+    background-image: url(fondos/poke.jpg)
+    
+}
+embed{
+    padding-right: 10px 10px;
+    border-radius: 10%;
+    
+}
+h1{
+    text-align:left;
+    font-size: 50px;
+    color: rgb(240, 192, 36);
+    
+}
+section{
+    text-align: right;
+    background-color: rgb(167, 218, 49);
+    width: 48%;
+    height: 400px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    float:center;
+    border:1px;
+    border-style: solid;
+    border-color: whitesmoke;
+}
+header
+{
+background-color: rgb(35, 223, 151);
+border-top: lightcoral;
+box-shadow: lightskyblue;
+}
